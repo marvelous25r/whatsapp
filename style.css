@@ -1,0 +1,79 @@
+.rel img{
+    height: 40px;
+}
+span.a{
+    bottom: 20px;
+    color: white;
+    word-spacing: 10px;
+    font-size: 30px;
+}
+.rel{
+    border: 2px solid rgba(0, 168, 132, 1);
+    height: 200px;
+    position: relative;
+    background-color: rgba(0, 168, 132, 1);
+    font-family: sans-serif;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+.rel2{
+    border: 1px solid rgba(240, 242, 245, 1);
+    height: 900px;
+    background-color: rgba(240, 242, 245, 1);
+}
+.flex-container{
+    border: 2px solid rgba(255, 255, 255, 1);
+    height: 400px;
+    width: 1000px;
+    background-color: rgba(255, 255, 255, 1); 
+    display: flex; 
+}
+.abs h1{
+    font-family: monospace;
+    color: rgb(39, 39, 39);
+    
+}
+span.b{
+    color: black;
+}
+span.c{
+    color: black;
+}
+span.d{
+    color: ;
+}
+.flex-item{
+    color:  rgb(39, 39, 39);
+    padding-left: 50px;
+    font-family: sans-serif;
+}
+.flex-item2 img{
+    padding-left: 200px;
+    padding-top: 60px;
+    height: 200px;
+
+}
+.firstdiv{
+    font-size: 20px;
+    color:  rgba(0, 168, 132, 1);
+}
+.secondiv{
+    border: 2px solid rgba(249, 249, 250, 1);
+    height: 500px;
+    width: 1000px;
+    background-color: rgba(249, 249, 250, 1);
+}
+.secondiv h1{
+    text-align: center;
+}
+.secondiv p{
+    text-align: center;
+    color: rgba(0, 168, 132, 1);;
+}
+.secondiv img{
+    height: 300px;
+    padding-left: 250px;
+}
+.firstdiv{
+    
+}
